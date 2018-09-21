@@ -1,0 +1,22 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "Test of Heroku",
+  "main": "nodetest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnmiddleton/tryheroku.git"
+  },
+  "keywords": [
+    "None"
+  ],
+  "author": "Frazer Middleton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnmiddleton/tryheroku/issues"
+  },
+  "homepage": "https://github.com/fnmiddleton/tryheroku#readme"
+}
